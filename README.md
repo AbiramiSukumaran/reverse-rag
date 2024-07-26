@@ -23,7 +23,7 @@ Here is my prompt: prompt.txt in this repo
 
 **Step 3:**
 
-Here is the code to configure the context, parameters and the prompt: reverse_rag.py in the 'Reverse RAG' folder this repo
+Here is the code to configure the context, parameters and the prompt: Reverse Rag.ipynb file in the 'Reverse RAG' folder this repo
 
 The response I received: response_sample.txt in this repo
 
