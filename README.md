@@ -23,9 +23,9 @@ Here is my prompt: prompt.txt in this repo
 
 **Step 3:**
 
-Here is the code to configure the context, parameters and the prompt: reverse_rag.py in this repo
+Here is the code to configure the context, parameters and the prompt: reverse_rag.py in the 'Reverse RAG' folder this repo
 
-The response I received: Response_Sample.txt in this repo
+The response I received: response_sample.txt in this repo
 
 **Step 4:**
 
